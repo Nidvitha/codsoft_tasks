@@ -1,0 +1,12 @@
+
+# Dataset files
+**/creditcard.csv
+
+# Saved machine learning models
+**/*.pkl
+
+# Python environment and cache
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
